@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kElvRG-V)
+Full Name: Frederick Emmanuel S. Estares
+Degree Program: BS Computer Science
+Live Website link : https://emanestares.github.io
+Steps on how to create GitHub page
+1. create a public repository with name : username.github.io
+2. add the html, css, and images needed
+What are your key takeaways from this exercise:
+even though I studied and learned html and css before, there are still things that I learn everytime I create a project with these technologies. This also made me realize how fast they evolve.
